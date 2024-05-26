@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Dheerajsingh002/Buyerseller.git/static/css/main.c3767eee.css",
-    "main.js": "/Dheerajsingh002/Buyerseller.git/static/js/main.65b9a54d.js",
-    "index.html": "/Dheerajsingh002/Buyerseller.git/index.html",
-    "main.c3767eee.css.map": "/Dheerajsingh002/Buyerseller.git/static/css/main.c3767eee.css.map",
-    "main.65b9a54d.js.map": "/Dheerajsingh002/Buyerseller.git/static/js/main.65b9a54d.js.map"
+    "main.css": "/Dheerajsingh002/Buyerseller/static/css/main.c3767eee.css",
+    "main.js": "/Dheerajsingh002/Buyerseller/static/js/main.65b9a54d.js",
+    "index.html": "/Dheerajsingh002/Buyerseller/index.html",
+    "main.c3767eee.css.map": "/Dheerajsingh002/Buyerseller/static/css/main.c3767eee.css.map",
+    "main.65b9a54d.js.map": "/Dheerajsingh002/Buyerseller/static/js/main.65b9a54d.js.map"
   },
   "entrypoints": [
     "static/css/main.c3767eee.css",
