@@ -1,0 +1,9 @@
+/* src/pages/SellerDashboard.css */
+.seller-dashboard-container {
+    padding: 20px;
+  }
+  
+  .seller-dashboard-container .property-form {
+    margin-bottom: 20px;
+  }
+  
